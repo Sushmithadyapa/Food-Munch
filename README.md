@@ -43,7 +43,7 @@ No installation or build command is required.
 
 After deployment, add your Vercel URL here:
 
-**Live Demo:** YOUR_VERCEL_URL
+**Live Demo:** (https://foodmunch-ashy-ten.vercel.app/)
 
 ## Notes
 
